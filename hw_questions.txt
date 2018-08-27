@@ -1,0 +1,13 @@
+What are three conclusions we can make about Kickstarter campaigns given the provided data?
+
+* Campaigns that meet their funding goal vastly outweighs those that do not.
+* Campaigns launched in spring and summer were much more likely to be successful than those launched in other months.
+* Campaigns to fund music projects were the most likely to succeed.
+
+What are some of the limitations of this dataset?
+
+* No data on return on investment from campaigns.
+
+What are some other possible tables/graphs that we could create?
+
+* A line graph that charts campaigns across all years to see change in the number of campaigns being created overall.
